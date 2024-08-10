@@ -36,7 +36,7 @@ client.on('ready', async () => {
     .setApplicationId('1271896737241366682')
     .setType('PLAYING')
     .setURL('https://discord.gg/vPGJngQbUx') 
-    .setState('Hero)
+    .setState('Hero')
     .setName('Hero On Top')
     .setDetails(`Join Server`)
     .setStartTimestamp(Date.now())
