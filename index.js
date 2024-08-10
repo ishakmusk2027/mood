@@ -40,7 +40,7 @@ client.on('ready', async () => {
     .setName('Hero On Top')
     .setDetails(`Join Server`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1271463274537291920/1271640478269440020/39632582222_2_1.webp?ex=66b8bbbb&is=66b76a3b&hm=f822ce3c585e2ffe5959d8797f25ef60a4cd8564d2930667ea9633350b66a77c&=&format=webp&width=550&height=309') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1271463274537291920/1271637467954548736/39632582222_6.webp?ex=66b8b8ee&is=66b7676e&hm=b9a2561f21ad0a6cea7b4ae9abae940a6feac54eff1b27a01afbb9732befb3fc&=&format=webp') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Hero On Top') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1271463274537291920/1271640687267287070/snapedit_1723122031051-removebg-preview_3.webp?ex=66b8bbed&is=66b76a6d&hm=6e9104c5b95c2580a456065accd09ff108e1004236e2dce298557418ef3b7bf6&=&format=webp') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Hero Server') 
