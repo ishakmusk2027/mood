@@ -40,12 +40,12 @@ client.on('ready', async () => {
     .setName('Hero On Top')
     .setDetails(`Join Server`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1271463274537291920/1271640687267287070/snapedit_1723122031051-removebg-preview_3.webp?ex=66b8bbed&is=66b76a6d&hm=6e9104c5b95c2580a456065accd09ff108e1004236e2dce298557418ef3b7bf6&=&format=webp') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1271463274537291920/1271637467954548736/39632582222_6.webp?ex=66b8b8ee&is=66b7676e&hm=b9a2561f21ad0a6cea7b4ae9abae940a6feac54eff1b27a01afbb9732befb3fc&=&format=webp') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Hero On Top') 
     .setAssetsSmallImage('https://cdn3.emoji.gg/emojis/8409-nitro.png') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Hero Server') 
     .addButton('Join Now', 'https://discord.gg/vPGJngQbUx');
-
+  
   client.user.setActivity(r);
   client.user.setPresence({ status: "idle" }); //dnd, online, idle, offline
 
